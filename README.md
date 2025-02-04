@@ -1,4 +1,3 @@
-# Red-Light-Green-Light
 #include<iostream>
 #include<cstdlib>
 #include<ctime>
